@@ -1,3 +1,6 @@
+# 사용법
+# curl https://raw.githubusercontent.com/kangthink/boosting/main/nextjs-ts-chakra-builder.sh | sh -s <프로젝트이름>
+
 PROJECT_NAME=$1
 
 yarn create next-app --typescript $PROJECT_NAME && \
