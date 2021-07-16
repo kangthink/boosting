@@ -1,3 +1,5 @@
+# 사용법
+# curl https://raw.githubusercontent.com/kangthink/boosting/main/python-cli-builder.sh | sh -s <프로젝트 이름> <패키지 이름>
 
 # 프로젝트 생성
 PROJECT_NAME=$1
